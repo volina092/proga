@@ -1,0 +1,4382 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "layer": "13A-2",
+    "name": "Tone",
+    "domain": [
+      {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "id": "13A-1",
+        "name": "No tones"
+      },
+      {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "id": "13A-2",
+        "name": "Simple tone system"
+      },
+      {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "id": "13A-3",
+        "name": "Complex tone system"
+      }
+    ]
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 22,
+          "ascii_name": "achumawi",
+          "genus_pk": 19,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "North America",
+          "iso_codes": "acv",
+          "jsondata": {},
+          "id": "acm",
+          "name": "Achumawi",
+          "description": null,
+          "markup_description": null,
+          "latitude": 41.5,
+          "longitude": -121
+        },
+        "name": "Achumawi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          239,
+          41.5
+        ]
+      },
+      "id": "acm"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 29,
+          "ascii_name": "andoke",
+          "genus_pk": 24,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "South America",
+          "iso_codes": "ano",
+          "jsondata": {},
+          "id": "adk",
+          "name": "Andoke",
+          "description": null,
+          "markup_description": null,
+          "latitude": -0.666666666667,
+          "longitude": -72
+        },
+        "name": "Andoke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          288,
+          -0.666666666667
+        ]
+      },
+      "id": "adk"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 42,
+          "ascii_name": "aghem",
+          "genus_pk": 31,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "agq",
+          "jsondata": {},
+          "id": "agh",
+          "name": "Aghem",
+          "description": null,
+          "markup_description": null,
+          "latitude": 6.66666666667,
+          "longitude": 10
+        },
+        "name": "Aghem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10,
+          6.66666666667
+        ]
+      },
+      "id": "agh"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 54,
+          "ascii_name": "aikana",
+          "genus_pk": 39,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "South America",
+          "iso_codes": "tba",
+          "jsondata": {},
+          "id": "aik",
+          "name": "Aikaná",
+          "description": null,
+          "markup_description": null,
+          "latitude": -12.6666666667,
+          "longitude": -60.6666666667
+        },
+        "name": "Aikaná"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          299.3333333333,
+          -12.6666666667
+        ]
+      },
+      "id": "aik"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 55,
+          "ascii_name": "ainu",
+          "genus_pk": 40,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Eurasia",
+          "iso_codes": "ain",
+          "jsondata": {},
+          "id": "ain",
+          "name": "Ainu",
+          "description": null,
+          "markup_description": null,
+          "latitude": 43,
+          "longitude": 143
+        },
+        "name": "Ainu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143,
+          43
+        ]
+      },
+      "id": "ain"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 67,
+          "ascii_name": "akan",
+          "genus_pk": 46,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "aka",
+          "jsondata": {},
+          "id": "akn",
+          "name": "Akan",
+          "description": null,
+          "markup_description": null,
+          "latitude": 6.5,
+          "longitude": -1.25
+        },
+        "name": "Akan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.25,
+          6.5
+        ]
+      },
+      "id": "akn"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 74,
+          "ascii_name": "alladian",
+          "genus_pk": 52,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "ald",
+          "jsondata": {},
+          "id": "ald",
+          "name": "Alladian",
+          "description": null,
+          "markup_description": null,
+          "latitude": 5.16666666667,
+          "longitude": -4.33333333333
+        },
+        "name": "Alladian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.33333333333,
+          5.16666666667
+        ]
+      },
+      "id": "ald"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 97,
+          "ascii_name": "amo",
+          "genus_pk": 66,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "amo",
+          "jsondata": {},
+          "id": "amo",
+          "name": "Amo",
+          "description": null,
+          "markup_description": null,
+          "latitude": 10.3333333333,
+          "longitude": 8.66666666667
+        },
+        "name": "Amo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.66666666667,
+          10.3333333333
+        ]
+      },
+      "id": "amo"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 110,
+          "ascii_name": "ani",
+          "genus_pk": 75,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "hnh",
+          "jsondata": {},
+          "id": "ani",
+          "name": "//Ani",
+          "description": null,
+          "markup_description": null,
+          "latitude": -18.9166666667,
+          "longitude": 21.9166666667
+        },
+        "name": "//Ani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9166666667,
+          -18.9166666667
+        ]
+      },
+      "id": "ani"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 115,
+          "ascii_name": "angaataha",
+          "genus_pk": 78,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "agm",
+          "jsondata": {},
+          "id": "ant",
+          "name": "Angaataha",
+          "description": null,
+          "markup_description": null,
+          "latitude": -7.21666666667,
+          "longitude": 146.25
+        },
+        "name": "Angaataha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.25,
+          -7.21666666667
+        ]
+      },
+      "id": "ant"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 183,
+          "ascii_name": "awngi",
+          "genus_pk": 104,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "awn",
+          "jsondata": {},
+          "id": "awn",
+          "name": "Awngi",
+          "description": null,
+          "markup_description": null,
+          "latitude": 10.8333333333,
+          "longitude": 36.6666666667
+        },
+        "name": "Awngi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6666666667,
+          10.8333333333
+        ]
+      },
+      "id": "awn"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 208,
+          "ascii_name": "bambara",
+          "genus_pk": 117,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Africa",
+          "iso_codes": "bam",
+          "jsondata": {},
+          "id": "bam",
+          "name": "Bambara",
+          "description": null,
+          "markup_description": null,
+          "latitude": 12.5,
+          "longitude": -7.5
+        },
+        "name": "Bambara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5,
+          12.5
+        ]
+      },
+      "id": "bam"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 216,
+          "ascii_name": "bawm",
+          "genus_pk": 122,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Eurasia",
+          "iso_codes": "bgr",
+          "jsondata": {},
+          "id": "baw",
+          "name": "Bawm",
+          "description": null,
+          "markup_description": null,
+          "latitude": 22.5,
+          "longitude": 92.25
+        },
+        "name": "Bawm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.25,
+          22.5
+        ]
+      },
+      "id": "baw"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 233,
+          "ascii_name": "beembe",
+          "genus_pk": 44,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "beq",
+          "jsondata": {},
+          "id": "bee",
+          "name": "Beembe",
+          "description": null,
+          "markup_description": null,
+          "latitude": -3.91666666667,
+          "longitude": 14.0833333333
+        },
+        "name": "Beembe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0833333333,
+          -3.91666666667
+        ]
+      },
+      "id": "bee"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 235,
+          "ascii_name": "beja",
+          "genus_pk": 132,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Africa",
+          "iso_codes": "bej",
+          "jsondata": {},
+          "id": "bej",
+          "name": "Beja",
+          "description": null,
+          "markup_description": null,
+          "latitude": 18,
+          "longitude": 36
+        },
+        "name": "Beja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36,
+          18
+        ]
+      },
+      "id": "bej"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 240,
+          "ascii_name": "berta",
+          "genus_pk": 134,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "wti",
+          "jsondata": {},
+          "id": "ber",
+          "name": "Berta",
+          "description": null,
+          "markup_description": null,
+          "latitude": 10.3333333333,
+          "longitude": 34.6666666667
+        },
+        "name": "Berta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6666666667,
+          10.3333333333
+        ]
+      },
+      "id": "ber"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 314,
+          "ascii_name": "waimaha",
+          "genus_pk": 163,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "South America",
+          "iso_codes": "bao",
+          "jsondata": {},
+          "id": "bno",
+          "name": "Waimaha",
+          "description": null,
+          "markup_description": null,
+          "latitude": 0.333333333333,
+          "longitude": -70.25
+        },
+        "name": "Waimaha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          289.75,
+          0.333333333333
+        ]
+      },
+      "id": "bno"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 323,
+          "ascii_name": "bodo",
+          "genus_pk": 167,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "brx",
+          "jsondata": {},
+          "id": "bod",
+          "name": "Bodo",
+          "description": null,
+          "markup_description": null,
+          "latitude": 26.8333333333,
+          "longitude": 92
+        },
+        "name": "Bodo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92,
+          26.8333333333
+        ]
+      },
+      "id": "bod"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 406,
+          "ascii_name": "cacua",
+          "genus_pk": 188,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "South America",
+          "iso_codes": "cbv",
+          "jsondata": {},
+          "id": "cac",
+          "name": "Cacua",
+          "description": null,
+          "markup_description": null,
+          "latitude": 1.08333333333,
+          "longitude": -70
+        },
+        "name": "Cacua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          290,
+          1.08333333333
+        ]
+      },
+      "id": "cac"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 407,
+          "ascii_name": "caddo",
+          "genus_pk": 189,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "North America",
+          "iso_codes": "cad",
+          "jsondata": {},
+          "id": "cad",
+          "name": "Caddo",
+          "description": null,
+          "markup_description": null,
+          "latitude": 33.3333333333,
+          "longitude": -93.5
+        },
+        "name": "Caddo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          266.5,
+          33.3333333333
+        ]
+      },
+      "id": "cad"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 438,
+          "ascii_name": "cherokee",
+          "genus_pk": 202,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "North America",
+          "iso_codes": "chr",
+          "jsondata": {},
+          "id": "che",
+          "name": "Cherokee",
+          "description": null,
+          "markup_description": null,
+          "latitude": 35.5,
+          "longitude": -83.5
+        },
+        "name": "Cherokee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          276.5,
+          35.5
+        ]
+      },
+      "id": "che"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 448,
+          "ascii_name": "chipewyan",
+          "genus_pk": 37,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "North America",
+          "iso_codes": "chp",
+          "jsondata": {},
+          "id": "chp",
+          "name": "Chipewyan",
+          "description": null,
+          "markup_description": null,
+          "latitude": 59,
+          "longitude": -106
+        },
+        "name": "Chipewyan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          254,
+          59
+        ]
+      },
+      "id": "chp"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 455,
+          "ascii_name": "cham western",
+          "genus_pk": 14,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "cja",
+          "jsondata": {},
+          "id": "chw",
+          "name": "Cham (Western)",
+          "description": null,
+          "markup_description": null,
+          "latitude": 12,
+          "longitude": 105.5
+        },
+        "name": "Cham (Western)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.5,
+          12
+        ]
+      },
+      "id": "chw"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 459,
+          "ascii_name": "ciluba",
+          "genus_pk": 44,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "lua",
+          "jsondata": {},
+          "id": "cil",
+          "name": "CiLuba",
+          "description": null,
+          "markup_description": null,
+          "latitude": -6,
+          "longitude": 22
+        },
+        "name": "CiLuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22,
+          -6
+        ]
+      },
+      "id": "cil"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 528,
+          "ascii_name": "cubeo",
+          "genus_pk": 163,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "South America",
+          "iso_codes": "cub",
+          "jsondata": {},
+          "id": "cub",
+          "name": "Cubeo",
+          "description": null,
+          "markup_description": null,
+          "latitude": 1.33333333333,
+          "longitude": -70.5
+        },
+        "name": "Cubeo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          289.5,
+          1.33333333333
+        ]
+      },
+      "id": "cub"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 547,
+          "ascii_name": "dadibi",
+          "genus_pk": 239,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "mps",
+          "jsondata": {},
+          "id": "dad",
+          "name": "Dadibi",
+          "description": null,
+          "markup_description": null,
+          "latitude": -6.55,
+          "longitude": 144.583333333
+        },
+        "name": "Dadibi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.583333333,
+          -6.55
+        ]
+      },
+      "id": "dad"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 549,
+          "ascii_name": "dahalo",
+          "genus_pk": 241,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "dal",
+          "jsondata": {},
+          "id": "dah",
+          "name": "Dahalo",
+          "description": null,
+          "markup_description": null,
+          "latitude": -2.33333333333,
+          "longitude": 40.5
+        },
+        "name": "Dahalo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.5,
+          -2.33333333333
+        ]
+      },
+      "id": "dah"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 569,
+          "ascii_name": "deti",
+          "genus_pk": 75,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "shg",
+          "jsondata": {},
+          "id": "det",
+          "name": "Deti",
+          "description": null,
+          "markup_description": null,
+          "latitude": -20.5,
+          "longitude": 24.5
+        },
+        "name": "Deti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5,
+          -20.5
+        ]
+      },
+      "id": "det"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 572,
+          "ascii_name": "dagbani",
+          "genus_pk": 156,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "dag",
+          "jsondata": {},
+          "id": "dgb",
+          "name": "Dagbani",
+          "description": null,
+          "markup_description": null,
+          "latitude": 9.58333333333,
+          "longitude": -0.5
+        },
+        "name": "Dagbani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5,
+          9.58333333333
+        ]
+      },
+      "id": "dgb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 608,
+          "ascii_name": "dangaleat western",
+          "genus_pk": 142,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "daa",
+          "jsondata": {},
+          "id": "dnw",
+          "name": "Dangaléat (Western)",
+          "description": null,
+          "markup_description": null,
+          "latitude": 12.1666666667,
+          "longitude": 18.3333333333
+        },
+        "name": "Dangaléat (Western)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3333333333,
+          12.1666666667
+        ]
+      },
+      "id": "dnw"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 621,
+          "ascii_name": "toro so",
+          "genus_pk": 247,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "dts",
+          "jsondata": {},
+          "id": "dts",
+          "name": "Toro So",
+          "description": null,
+          "markup_description": null,
+          "latitude": 14.4166666667,
+          "longitude": -3.25
+        },
+        "name": "Toro So"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.25,
+          14.4166666667
+        ]
+      },
+      "id": "dts"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 635,
+          "ascii_name": "efik",
+          "genus_pk": 263,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "efi",
+          "jsondata": {},
+          "id": "efi",
+          "name": "Efik",
+          "description": null,
+          "markup_description": null,
+          "latitude": 4.91666666667,
+          "longitude": 8.5
+        },
+        "name": "Efik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5,
+          4.91666666667
+        ]
+      },
+      "id": "efi"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 640,
+          "ascii_name": "ekari",
+          "genus_pk": 267,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Papunesia",
+          "iso_codes": "ekg",
+          "jsondata": {},
+          "id": "eka",
+          "name": "Ekari",
+          "description": null,
+          "markup_description": null,
+          "latitude": -3.83333333333,
+          "longitude": 135.5
+        },
+        "name": "Ekari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5,
+          -3.83333333333
+        ]
+      },
+      "id": "eka"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 665,
+          "ascii_name": "ewe",
+          "genus_pk": 43,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Africa",
+          "iso_codes": "ewe",
+          "jsondata": {},
+          "id": "ewe",
+          "name": "Ewe",
+          "description": null,
+          "markup_description": null,
+          "latitude": 6.33333333333,
+          "longitude": 0.416666666667
+        },
+        "name": "Ewe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.416666666667,
+          6.33333333333
+        ]
+      },
+      "id": "ewe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 669,
+          "ascii_name": "fasu",
+          "genus_pk": 279,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "faa",
+          "jsondata": {},
+          "id": "fas",
+          "name": "Fasu",
+          "description": null,
+          "markup_description": null,
+          "latitude": -6.58333333333,
+          "longitude": 143.333333333
+        },
+        "name": "Fasu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.333333333,
+          -6.58333333333
+        ]
+      },
+      "id": "fas"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 694,
+          "ascii_name": "fulnio",
+          "genus_pk": 284,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "South America",
+          "iso_codes": "fun",
+          "jsondata": {},
+          "id": "ful",
+          "name": "Fulniô",
+          "description": null,
+          "markup_description": null,
+          "latitude": -8,
+          "longitude": -37.5
+        },
+        "name": "Fulniô"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          322.5,
+          -8
+        ]
+      },
+      "id": "ful"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 696,
+          "ascii_name": "fur",
+          "genus_pk": 285,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Africa",
+          "iso_codes": "fvr",
+          "jsondata": {},
+          "id": "fur",
+          "name": "Fur",
+          "description": null,
+          "markup_description": null,
+          "latitude": 13.5,
+          "longitude": 25
+        },
+        "name": "Fur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25,
+          13.5
+        ]
+      },
+      "id": "fur"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 700,
+          "ascii_name": "fyem",
+          "genus_pk": 147,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "pym",
+          "jsondata": {},
+          "id": "fye",
+          "name": "Fyem",
+          "description": null,
+          "markup_description": null,
+          "latitude": 9.58333333333,
+          "longitude": 9.33333333333
+        },
+        "name": "Fyem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.33333333333,
+          9.58333333333
+        ]
+      },
+      "id": "fye"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 716,
+          "ascii_name": "gbeya bossangoa",
+          "genus_pk": 292,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "gbp",
+          "jsondata": {},
+          "id": "gbb",
+          "name": "Gbeya Bossangoa",
+          "description": null,
+          "markup_description": null,
+          "latitude": 6.66666666667,
+          "longitude": 17.5
+        },
+        "name": "Gbeya Bossangoa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5,
+          6.66666666667
+        ]
+      },
+      "id": "gbb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 820,
+          "ascii_name": "hadza",
+          "genus_pk": 312,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "hts",
+          "jsondata": {},
+          "id": "had",
+          "name": "Hadza",
+          "description": null,
+          "markup_description": null,
+          "latitude": -3.75,
+          "longitude": 35.1666666667
+        },
+        "name": "Hadza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1666666667,
+          -3.75
+        ]
+      },
+      "id": "had"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 824,
+          "ascii_name": "hamtai",
+          "genus_pk": 81,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Papunesia",
+          "iso_codes": "hmt",
+          "jsondata": {},
+          "id": "ham",
+          "name": "Hamtai",
+          "description": null,
+          "markup_description": null,
+          "latitude": -7.5,
+          "longitude": 146.25
+        },
+        "name": "Hamtai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.25,
+          -7.5
+        ]
+      },
+      "id": "ham"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 828,
+          "ascii_name": "hausa",
+          "genus_pk": 72,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "Africa",
+          "iso_codes": "hau",
+          "jsondata": {},
+          "id": "hau",
+          "name": "Hausa",
+          "description": null,
+          "markup_description": null,
+          "latitude": 12,
+          "longitude": 7
+        },
+        "name": "Hausa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7,
+          12
+        ]
+      },
+      "id": "hau"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 857,
+          "ascii_name": "hamer",
+          "genus_pk": 2,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "amf",
+          "jsondata": {},
+          "id": "hmr",
+          "name": "Hamer",
+          "description": null,
+          "markup_description": null,
+          "latitude": 5,
+          "longitude": 36.5
+        },
+        "name": "Hamer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5,
+          5
+        ]
+      },
+      "id": "hmr"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 868,
+          "ascii_name": "hopi",
+          "genus_pk": 190,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "North America",
+          "iso_codes": "hop",
+          "jsondata": {},
+          "id": "hop",
+          "name": "Hopi",
+          "description": null,
+          "markup_description": null,
+          "latitude": 36,
+          "longitude": -110
+        },
+        "name": "Hopi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          250,
+          36
+        ]
+      },
+      "id": "hop"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 881,
+          "ascii_name": "huave san mateo del mar",
+          "genus_pk": 321,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "North America",
+          "iso_codes": "huv",
+          "jsondata": {},
+          "id": "hve",
+          "name": "Huave (San Mateo del Mar)",
+          "description": null,
+          "markup_description": null,
+          "latitude": 16.2166666667,
+          "longitude": -95
+        },
+        "name": "Huave (San Mateo del Mar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          265,
+          16.2166666667
+        ]
+      },
+      "id": "hve"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 902,
+          "ascii_name": "igbo",
+          "genus_pk": 325,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Africa",
+          "iso_codes": "ibo",
+          "jsondata": {},
+          "id": "igb",
+          "name": "Igbo",
+          "description": null,
+          "markup_description": null,
+          "latitude": 6,
+          "longitude": 7.33333333333
+        },
+        "name": "Igbo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.33333333333,
+          6
+        ]
+      },
+      "id": "igb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 905,
+          "ascii_name": "ingessana",
+          "genus_pk": 326,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "tbi",
+          "jsondata": {},
+          "id": "igs",
+          "name": "Ingessana",
+          "description": null,
+          "markup_description": null,
+          "latitude": 11.5,
+          "longitude": 34
+        },
+        "name": "Ingessana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34,
+          11.5
+        ]
+      },
+      "id": "igs"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 908,
+          "ascii_name": "ijo kolokuma",
+          "genus_pk": 248,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "ijc",
+          "jsondata": {},
+          "id": "ijo",
+          "name": "Ijo (Kolokuma)",
+          "description": null,
+          "markup_description": null,
+          "latitude": 4.91666666667,
+          "longitude": 5.66666666667
+        },
+        "name": "Ijo (Kolokuma)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.66666666667,
+          4.91666666667
+        ]
+      },
+      "id": "ijo"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 909,
+          "ascii_name": "ik",
+          "genus_pk": 327,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "ikx",
+          "jsondata": {},
+          "id": "ik",
+          "name": "Ik",
+          "description": null,
+          "markup_description": null,
+          "latitude": 3.75,
+          "longitude": 34.1666666667
+        },
+        "name": "Ik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.1666666667,
+          3.75
+        ]
+      },
+      "id": "ik"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 930,
+          "ascii_name": "iraqw",
+          "genus_pk": 36,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Africa",
+          "iso_codes": "irk",
+          "jsondata": {},
+          "id": "irq",
+          "name": "Iraqw",
+          "description": null,
+          "markup_description": null,
+          "latitude": -4,
+          "longitude": 35.5
+        },
+        "name": "Iraqw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5,
+          -4
+        ]
+      },
+      "id": "irq"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 940,
+          "ascii_name": "isoko",
+          "genus_pk": 161,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "iso",
+          "jsondata": {},
+          "id": "iso",
+          "name": "Isoko",
+          "description": null,
+          "markup_description": null,
+          "latitude": 5.5,
+          "longitude": 6.25
+        },
+        "name": "Isoko"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.25,
+          5.5
+        ]
+      },
+      "id": "iso"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 982,
+          "ascii_name": "jomang",
+          "genus_pk": 343,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "tlo",
+          "jsondata": {},
+          "id": "jom",
+          "name": "Jomang",
+          "description": null,
+          "markup_description": null,
+          "latitude": 10.5833333333,
+          "longitude": 30.5
+        },
+        "name": "Jomang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5,
+          10.5833333333
+        ]
+      },
+      "id": "jom"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 983,
+          "ascii_name": "japanese",
+          "genus_pk": 344,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "Eurasia",
+          "iso_codes": "jpn",
+          "jsondata": {},
+          "id": "jpn",
+          "name": "Japanese",
+          "description": null,
+          "markup_description": null,
+          "latitude": 37,
+          "longitude": 140
+        },
+        "name": "Japanese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140,
+          37
+        ]
+      },
+      "id": "jpn"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1004,
+          "ascii_name": "kalami",
+          "genus_pk": 91,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "gwc",
+          "jsondata": {},
+          "id": "kal",
+          "name": "Kalami",
+          "description": null,
+          "markup_description": null,
+          "latitude": 35.5,
+          "longitude": 72.5
+        },
+        "name": "Kalami"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5,
+          35.5
+        ]
+      },
+      "id": "kal"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1033,
+          "ascii_name": "kefa",
+          "genus_pk": 290,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "kbr",
+          "jsondata": {},
+          "id": "kef",
+          "name": "Kefa",
+          "description": null,
+          "markup_description": null,
+          "latitude": 7.25,
+          "longitude": 36.25
+        },
+        "name": "Kefa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.25,
+          7.25
+        ]
+      },
+      "id": "kef"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1043,
+          "ascii_name": "kewa",
+          "genus_pk": 270,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "Papunesia",
+          "iso_codes": "kew",
+          "jsondata": {},
+          "id": "kew",
+          "name": "Kewa",
+          "description": null,
+          "markup_description": null,
+          "latitude": -6.5,
+          "longitude": 143.833333333
+        },
+        "name": "Kewa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.833333333,
+          -6.5
+        ]
+      },
+      "id": "kew"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1048,
+          "ascii_name": "konyagi",
+          "genus_pk": 182,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "cou",
+          "jsondata": {},
+          "id": "kgi",
+          "name": "Konyagi",
+          "description": null,
+          "markup_description": null,
+          "latitude": 12.5,
+          "longitude": -13.25
+        },
+        "name": "Konyagi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.25,
+          12.5
+        ]
+      },
+      "id": "kgi"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1077,
+          "ascii_name": "kiowa",
+          "genus_pk": 342,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "North America",
+          "iso_codes": "kio",
+          "jsondata": {},
+          "id": "kio",
+          "name": "Kiowa",
+          "description": null,
+          "markup_description": null,
+          "latitude": 37,
+          "longitude": -99
+        },
+        "name": "Kiowa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          261,
+          37
+        ]
+      },
+      "id": "kio"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1083,
+          "ascii_name": "kiwai southern",
+          "genus_pk": 374,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "kjd",
+          "jsondata": {},
+          "id": "kiw",
+          "name": "Kiwai (Southern)",
+          "description": null,
+          "markup_description": null,
+          "latitude": -8,
+          "longitude": 143.5
+        },
+        "name": "Kiwai (Southern)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5,
+          -8
+        ]
+      },
+      "id": "kiw"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1132,
+          "ascii_name": "khmu",
+          "genus_pk": 384,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Eurasia",
+          "iso_codes": "kjg",
+          "jsondata": {},
+          "id": "kmu",
+          "name": "Khmu'",
+          "description": null,
+          "markup_description": null,
+          "latitude": 21,
+          "longitude": 102
+        },
+        "name": "Khmu'"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102,
+          21
+        ]
+      },
+      "id": "kmu"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1141,
+          "ascii_name": "kanakuru",
+          "genus_pk": 72,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "kna",
+          "jsondata": {},
+          "id": "knk",
+          "name": "Kanakuru",
+          "description": null,
+          "markup_description": null,
+          "latitude": 10,
+          "longitude": 12
+        },
+        "name": "Kanakuru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12,
+          10
+        ]
+      },
+      "id": "knk"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1142,
+          "ascii_name": "kunama",
+          "genus_pk": 390,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Africa",
+          "iso_codes": "kun",
+          "jsondata": {},
+          "id": "knm",
+          "name": "Kunama",
+          "description": null,
+          "markup_description": null,
+          "latitude": 14.5,
+          "longitude": 37
+        },
+        "name": "Kunama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37,
+          14.5
+        ]
+      },
+      "id": "knm"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1147,
+          "ascii_name": "kanuri",
+          "genus_pk": 359,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Africa",
+          "iso_codes": "knc",
+          "jsondata": {},
+          "id": "knr",
+          "name": "Kanuri",
+          "description": null,
+          "markup_description": null,
+          "latitude": 12,
+          "longitude": 13
+        },
+        "name": "Kanuri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13,
+          12
+        ]
+      },
+      "id": "knr"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1156,
+          "ascii_name": "koiari",
+          "genus_pk": 110,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "kbk",
+          "jsondata": {},
+          "id": "koi",
+          "name": "Koiari",
+          "description": null,
+          "markup_description": null,
+          "latitude": -9.5,
+          "longitude": 147.333333333
+        },
+        "name": "Koiari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.333333333,
+          -9.5
+        ]
+      },
+      "id": "koi"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1186,
+          "ascii_name": "karok",
+          "genus_pk": 400,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "North America",
+          "iso_codes": "kyh",
+          "jsondata": {},
+          "id": "krk",
+          "name": "Karok",
+          "description": null,
+          "markup_description": null,
+          "latitude": 41.6666666667,
+          "longitude": -123
+        },
+        "name": "Karok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          237,
+          41.6666666667
+        ]
+      },
+      "id": "krk"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1190,
+          "ascii_name": "krongo",
+          "genus_pk": 351,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "Africa",
+          "iso_codes": "kgo",
+          "jsondata": {},
+          "id": "kro",
+          "name": "Krongo",
+          "description": null,
+          "markup_description": null,
+          "latitude": 10.5,
+          "longitude": 30
+        },
+        "name": "Krongo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30,
+          10.5
+        ]
+      },
+      "id": "kro"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1207,
+          "ascii_name": "kisi southern",
+          "genus_pk": 373,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "kss",
+          "jsondata": {},
+          "id": "kss",
+          "name": "Kisi (Southern)",
+          "description": null,
+          "markup_description": null,
+          "latitude": 8.5,
+          "longitude": -10.25
+        },
+        "name": "Kisi (Southern)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.25,
+          8.5
+        ]
+      },
+      "id": "kss"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1215,
+          "ascii_name": "kotoko",
+          "genus_pk": 118,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "aal",
+          "jsondata": {},
+          "id": "ktk",
+          "name": "Kotoko",
+          "description": null,
+          "markup_description": null,
+          "latitude": 11.3333333333,
+          "longitude": 15.3333333333
+        },
+        "name": "Kotoko"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3333333333,
+          11.3333333333
+        ]
+      },
+      "id": "ktk"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1229,
+          "ascii_name": "kullo",
+          "genus_pk": 290,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "dwr",
+          "jsondata": {},
+          "id": "kul",
+          "name": "Kullo",
+          "description": null,
+          "markup_description": null,
+          "latitude": 6.75,
+          "longitude": 37.0833333333
+        },
+        "name": "Kullo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0833333333,
+          6.75
+        ]
+      },
+      "id": "kul"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1278,
+          "ascii_name": "lango",
+          "genus_pk": 18,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "Africa",
+          "iso_codes": "laj",
+          "jsondata": {},
+          "id": "lan",
+          "name": "Lango",
+          "description": null,
+          "markup_description": null,
+          "latitude": 2.16666666667,
+          "longitude": 33
+        },
+        "name": "Lango"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33,
+          2.16666666667
+        ]
+      },
+      "id": "lan"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1281,
+          "ascii_name": "latvian",
+          "genus_pk": 423,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Eurasia",
+          "iso_codes": "lav",
+          "jsondata": {},
+          "id": "lat",
+          "name": "Latvian",
+          "description": null,
+          "markup_description": null,
+          "latitude": 57,
+          "longitude": 24
+        },
+        "name": "Latvian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24,
+          57
+        ]
+      },
+      "id": "lat"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1323,
+          "ascii_name": "lelemi",
+          "genus_pk": 429,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "lef",
+          "jsondata": {},
+          "id": "llm",
+          "name": "Lelemi",
+          "description": null,
+          "markup_description": null,
+          "latitude": 7.33333333333,
+          "longitude": 0.5
+        },
+        "name": "Lelemi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5,
+          7.33333333333
+        ]
+      },
+      "id": "llm"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1361,
+          "ascii_name": "luo",
+          "genus_pk": 18,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "luo",
+          "jsondata": {},
+          "id": "luo",
+          "name": "Luo",
+          "description": null,
+          "markup_description": null,
+          "latitude": -0.5,
+          "longitude": 34.75
+        },
+        "name": "Luo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.75,
+          -0.5
+        ]
+      },
+      "id": "luo"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1364,
+          "ascii_name": "luvale",
+          "genus_pk": 44,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "Africa",
+          "iso_codes": "lue",
+          "jsondata": {},
+          "id": "luv",
+          "name": "Luvale",
+          "description": null,
+          "markup_description": null,
+          "latitude": -12,
+          "longitude": 22
+        },
+        "name": "Luvale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22,
+          -12
+        ]
+      },
+      "id": "luv"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1369,
+          "ascii_name": "maasai",
+          "genus_pk": 121,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "mas",
+          "jsondata": {},
+          "id": "maa",
+          "name": "Maasai",
+          "description": null,
+          "markup_description": null,
+          "latitude": -3,
+          "longitude": 36
+        },
+        "name": "Maasai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36,
+          -3
+        ]
+      },
+      "id": "maa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1370,
+          "ascii_name": "maba",
+          "genus_pk": 433,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Africa",
+          "iso_codes": "mde",
+          "jsondata": {},
+          "id": "mab",
+          "name": "Maba",
+          "description": null,
+          "markup_description": null,
+          "latitude": 13.75,
+          "longitude": 20.8333333333
+        },
+        "name": "Maba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8333333333,
+          13.75
+        ]
+      },
+      "id": "mab"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1391,
+          "ascii_name": "mazahua",
+          "genus_pk": 440,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "North America",
+          "iso_codes": "maz",
+          "jsondata": {},
+          "id": "maz",
+          "name": "Mazahua",
+          "description": null,
+          "markup_description": null,
+          "latitude": 19.4166666667,
+          "longitude": -99.9166666667
+        },
+        "name": "Mazahua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          260.0833333333,
+          19.4166666667
+        ]
+      },
+      "id": "maz"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1398,
+          "ascii_name": "mbum",
+          "genus_pk": 377,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "mdd",
+          "jsondata": {},
+          "id": "mbm",
+          "name": "Mbum",
+          "description": null,
+          "markup_description": null,
+          "latitude": 7.75,
+          "longitude": 13.1666666667
+        },
+        "name": "Mbum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1666666667,
+          7.75
+        ]
+      },
+      "id": "mbm"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1435,
+          "ascii_name": "meithei",
+          "genus_pk": 449,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "Eurasia",
+          "iso_codes": "mni",
+          "jsondata": {},
+          "id": "mei",
+          "name": "Meithei",
+          "description": null,
+          "markup_description": null,
+          "latitude": 24.75,
+          "longitude": 94
+        },
+        "name": "Meithei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94,
+          24.75
+        ]
+      },
+      "id": "mei"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1546,
+          "ascii_name": "mor",
+          "genus_pk": 67,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "mhz",
+          "jsondata": {},
+          "id": "mor",
+          "name": "Mor",
+          "description": null,
+          "markup_description": null,
+          "latitude": -2.95,
+          "longitude": 135.75
+        },
+        "name": "Mor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75,
+          -2.95
+        ]
+      },
+      "id": "mor"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1562,
+          "ascii_name": "margi",
+          "genus_pk": 118,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "mrt",
+          "jsondata": {},
+          "id": "mrg",
+          "name": "Margi",
+          "description": null,
+          "markup_description": null,
+          "latitude": 11,
+          "longitude": 13
+        },
+        "name": "Margi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13,
+          11
+        ]
+      },
+      "id": "mrg"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1567,
+          "ascii_name": "murle",
+          "genus_pk": 152,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Africa",
+          "iso_codes": "mur",
+          "jsondata": {},
+          "id": "mrl",
+          "name": "Murle",
+          "description": null,
+          "markup_description": null,
+          "latitude": 6.5,
+          "longitude": 33.5
+        },
+        "name": "Murle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.5,
+          6.5
+        ]
+      },
+      "id": "mrl"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1569,
+          "ascii_name": "moro",
+          "genus_pk": 479,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "mor",
+          "jsondata": {},
+          "id": "mro",
+          "name": "Moro",
+          "description": null,
+          "markup_description": null,
+          "latitude": 11,
+          "longitude": 30.1666666667
+        },
+        "name": "Moro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1666666667,
+          11
+        ]
+      },
+      "id": "mro"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1603,
+          "ascii_name": "muinane",
+          "genus_pk": 169,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "South America",
+          "iso_codes": "bmr",
+          "jsondata": {},
+          "id": "mui",
+          "name": "Muinane",
+          "description": null,
+          "markup_description": null,
+          "latitude": -1,
+          "longitude": -72.5
+        },
+        "name": "Muinane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          287.5,
+          -1
+        ]
+      },
+      "id": "mui"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1660,
+          "ascii_name": "nandi",
+          "genus_pk": 121,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "niq",
+          "jsondata": {},
+          "id": "nan",
+          "name": "Nandi",
+          "description": null,
+          "markup_description": null,
+          "latitude": 0.25,
+          "longitude": 35
+        },
+        "name": "Nandi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35,
+          0.25
+        ]
+      },
+      "id": "nan"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1662,
+          "ascii_name": "nara in ethiopia",
+          "genus_pk": 492,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "nrb",
+          "jsondata": {},
+          "id": "nar",
+          "name": "Nara (in Ethiopia)",
+          "description": null,
+          "markup_description": null,
+          "latitude": 15.0833333333,
+          "longitude": 37.5833333333
+        },
+        "name": "Nara (in Ethiopia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5833333333,
+          15.0833333333
+        ]
+      },
+      "id": "nar"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1666,
+          "ascii_name": "navajo",
+          "genus_pk": 37,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "North America",
+          "iso_codes": "nav",
+          "jsondata": {},
+          "id": "nav",
+          "name": "Navajo",
+          "description": null,
+          "markup_description": null,
+          "latitude": 36.1666666667,
+          "longitude": -108
+        },
+        "name": "Navajo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          252,
+          36.1666666667
+        ]
+      },
+      "id": "nav"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1687,
+          "ascii_name": "ndyuka",
+          "genus_pk": 34,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "South America",
+          "iso_codes": "djk",
+          "jsondata": {},
+          "id": "ndy",
+          "name": "Ndyuka",
+          "description": null,
+          "markup_description": null,
+          "latitude": 4.5,
+          "longitude": -54.5
+        },
+        "name": "Ndyuka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          305.5,
+          4.5
+        ]
+      },
+      "id": "ndy"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1715,
+          "ascii_name": "ngizim",
+          "genus_pk": 72,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "ngi",
+          "jsondata": {},
+          "id": "ngz",
+          "name": "Ngizim",
+          "description": null,
+          "markup_description": null,
+          "latitude": 12.0833333333,
+          "longitude": 10.9166666667
+        },
+        "name": "Ngizim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9166666667,
+          12.0833333333
+        ]
+      },
+      "id": "ngz"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1731,
+          "ascii_name": "nyishi",
+          "genus_pk": 83,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "njz",
+          "jsondata": {},
+          "id": "nis",
+          "name": "Nyishi",
+          "description": null,
+          "markup_description": null,
+          "latitude": 27.5,
+          "longitude": 93.5
+        },
+        "name": "Nyishi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.5,
+          27.5
+        ]
+      },
+      "id": "nis"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1734,
+          "ascii_name": "nivkh",
+          "genus_pk": 504,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Eurasia",
+          "iso_codes": "niv",
+          "jsondata": {},
+          "id": "niv",
+          "name": "Nivkh",
+          "description": null,
+          "markup_description": null,
+          "latitude": 53.3333333333,
+          "longitude": 142
+        },
+        "name": "Nivkh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142,
+          53.3333333333
+        ]
+      },
+      "id": "niv"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1740,
+          "ascii_name": "nkorekiga",
+          "genus_pk": 44,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Africa",
+          "iso_codes": "cgg",
+          "jsondata": {},
+          "id": "nko",
+          "name": "Nkore-Kiga",
+          "description": null,
+          "markup_description": null,
+          "latitude": -0.916666666667,
+          "longitude": 29.8333333333
+        },
+        "name": "Nkore-Kiga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8333333333,
+          -0.916666666667
+        ]
+      },
+      "id": "nko"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1742,
+          "ascii_name": "nyah kur tha pong",
+          "genus_pk": 470,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "cbn",
+          "jsondata": {},
+          "id": "nkt",
+          "name": "Nyah Kur (Tha Pong)",
+          "description": null,
+          "markup_description": null,
+          "latitude": 15.6666666667,
+          "longitude": 101.666666667
+        },
+        "name": "Nyah Kur (Tha Pong)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.666666667,
+          15.6666666667
+        ]
+      },
+      "id": "nkt"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1761,
+          "ascii_name": "nobiin",
+          "genus_pk": 454,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "fia",
+          "jsondata": {},
+          "id": "nob",
+          "name": "Nobiin",
+          "description": null,
+          "markup_description": null,
+          "latitude": 21,
+          "longitude": 31
+        },
+        "name": "Nobiin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31,
+          21
+        ]
+      },
+      "id": "nob"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1768,
+          "ascii_name": "norwegian",
+          "genus_pk": 27,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "nor",
+          "jsondata": {},
+          "id": "nor",
+          "name": "Norwegian",
+          "description": null,
+          "markup_description": null,
+          "latitude": 61,
+          "longitude": 8
+        },
+        "name": "Norwegian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8,
+          61
+        ]
+      },
+      "id": "nor"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1801,
+          "ascii_name": "nyangi",
+          "genus_pk": 327,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "nyp",
+          "jsondata": {},
+          "id": "nyg",
+          "name": "Nyangi",
+          "description": null,
+          "markup_description": null,
+          "latitude": 3.41666666667,
+          "longitude": 33.5833333333
+        },
+        "name": "Nyangi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.5833333333,
+          3.41666666667
+        ]
+      },
+      "id": "nyg"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1816,
+          "ascii_name": "ocaina",
+          "genus_pk": 318,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "South America",
+          "iso_codes": "oca",
+          "jsondata": {},
+          "id": "oca",
+          "name": "Ocaina",
+          "description": null,
+          "markup_description": null,
+          "latitude": -2.75,
+          "longitude": -71.75
+        },
+        "name": "Ocaina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          288.25,
+          -2.75
+        ]
+      },
+      "id": "oca"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1819,
+          "ascii_name": "ogbia",
+          "genus_pk": 513,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "ogb",
+          "jsondata": {},
+          "id": "ogb",
+          "name": "Ogbia",
+          "description": null,
+          "markup_description": null,
+          "latitude": 4.66666666667,
+          "longitude": 6.25
+        },
+        "name": "Ogbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.25,
+          4.66666666667
+        ]
+      },
+      "id": "ogb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1836,
+          "ascii_name": "oneida",
+          "genus_pk": 237,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "North America",
+          "iso_codes": "one",
+          "jsondata": {},
+          "id": "ond",
+          "name": "Oneida",
+          "description": null,
+          "markup_description": null,
+          "latitude": 43,
+          "longitude": -75.6666666667
+        },
+        "name": "Oneida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          284.3333333333,
+          43
+        ]
+      },
+      "id": "ond"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1858,
+          "ascii_name": "otomi mezquital",
+          "genus_pk": 440,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "North America",
+          "iso_codes": "ote",
+          "jsondata": {},
+          "id": "otm",
+          "name": "Otomí (Mezquital)",
+          "description": null,
+          "markup_description": null,
+          "latitude": 20.1666666667,
+          "longitude": -99.1666666667
+        },
+        "name": "Otomí (Mezquital)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          260.8333333333,
+          20.1666666667
+        ]
+      },
+      "id": "otm"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1879,
+          "ascii_name": "pawaian",
+          "genus_pk": 523,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "pwa",
+          "jsondata": {},
+          "id": "paw",
+          "name": "Pawaian",
+          "description": null,
+          "markup_description": null,
+          "latitude": -7,
+          "longitude": 145.083333333
+        },
+        "name": "Pawaian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.083333333,
+          -7
+        ]
+      },
+      "id": "paw"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1883,
+          "ascii_name": "pech",
+          "genus_pk": 524,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "North America",
+          "iso_codes": "pay",
+          "jsondata": {},
+          "id": "pec",
+          "name": "Pech",
+          "description": null,
+          "markup_description": null,
+          "latitude": 15,
+          "longitude": -85.5
+        },
+        "name": "Pech"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          274.5,
+          15
+        ]
+      },
+      "id": "pec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1935,
+          "ascii_name": "piraha",
+          "genus_pk": 530,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "South America",
+          "iso_codes": "myp",
+          "jsondata": {},
+          "id": "prh",
+          "name": "Pirahã",
+          "description": null,
+          "markup_description": null,
+          "latitude": -7,
+          "longitude": -62
+        },
+        "name": "Pirahã"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          298,
+          -7
+        ]
+      },
+      "id": "prh"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1944,
+          "ascii_name": "passamaquoddymaliseet",
+          "genus_pk": 13,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "North America",
+          "iso_codes": "pqm",
+          "jsondata": {},
+          "id": "psm",
+          "name": "Passamaquoddy-Maliseet",
+          "description": null,
+          "markup_description": null,
+          "latitude": 45,
+          "longitude": -67
+        },
+        "name": "Passamaquoddy-Maliseet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          293,
+          45
+        ]
+      },
+      "id": "psm"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1977,
+          "ascii_name": "quileute",
+          "genus_pk": 215,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "North America",
+          "iso_codes": "qui",
+          "jsondata": {},
+          "id": "qui",
+          "name": "Quileute",
+          "description": null,
+          "markup_description": null,
+          "latitude": 47.9166666667,
+          "longitude": -124.25
+        },
+        "name": "Quileute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          235.75,
+          47.9166666667
+        ]
+      },
+      "id": "qui"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1994,
+          "ascii_name": "resigaro",
+          "genus_pk": 15,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "South America",
+          "iso_codes": "rgr",
+          "jsondata": {},
+          "id": "res",
+          "name": "Resígaro",
+          "description": null,
+          "markup_description": null,
+          "latitude": -2.41666666667,
+          "longitude": -71.5
+        },
+        "name": "Resígaro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          288.5,
+          -2.41666666667
+        ]
+      },
+      "id": "res"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2032,
+          "ascii_name": "rutul",
+          "genus_pk": 32,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "rut",
+          "jsondata": {},
+          "id": "rut",
+          "name": "Rutul",
+          "description": null,
+          "markup_description": null,
+          "latitude": 41.5,
+          "longitude": 47.4166666667
+        },
+        "name": "Rutul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.4166666667,
+          41.5
+        ]
+      },
+      "id": "rut"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2043,
+          "ascii_name": "sango",
+          "genus_pk": 116,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "Africa",
+          "iso_codes": "sag",
+          "jsondata": {},
+          "id": "san",
+          "name": "Sango",
+          "description": null,
+          "markup_description": null,
+          "latitude": 5,
+          "longitude": 18
+        },
+        "name": "Sango"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18,
+          5
+        ]
+      },
+      "id": "san"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2056,
+          "ascii_name": "sandawe",
+          "genus_pk": 546,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "sad",
+          "jsondata": {},
+          "id": "sdw",
+          "name": "Sandawe",
+          "description": null,
+          "markup_description": null,
+          "latitude": -5,
+          "longitude": 35
+        },
+        "name": "Sandawe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35,
+          -5
+        ]
+      },
+      "id": "sdw"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2087,
+          "ascii_name": "shasta",
+          "genus_pk": 551,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "North America",
+          "iso_codes": "sht",
+          "jsondata": {},
+          "id": "shs",
+          "name": "Shasta",
+          "description": null,
+          "markup_description": null,
+          "latitude": 41.8333333333,
+          "longitude": -122.666666667
+        },
+        "name": "Shasta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          237.33333333299998,
+          41.8333333333
+        ]
+      },
+      "id": "shs"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2111,
+          "ascii_name": "slave",
+          "genus_pk": 37,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "North America",
+          "iso_codes": "den",
+          "jsondata": {},
+          "id": "sla",
+          "name": "Slave",
+          "description": null,
+          "markup_description": null,
+          "latitude": 67,
+          "longitude": -125
+        },
+        "name": "Slave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          235,
+          67
+        ]
+      },
+      "id": "sla"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2140,
+          "ascii_name": "somali",
+          "genus_pk": 10,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "som",
+          "jsondata": {},
+          "id": "som",
+          "name": "Somali",
+          "description": null,
+          "markup_description": null,
+          "latitude": 3,
+          "longitude": 45
+        },
+        "name": "Somali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45,
+          3
+        ]
+      },
+      "id": "som"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2156,
+          "ascii_name": "sre",
+          "genus_pk": 170,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "kpm",
+          "jsondata": {},
+          "id": "sre",
+          "name": "Sre",
+          "description": null,
+          "markup_description": null,
+          "latitude": 11.5,
+          "longitude": 108
+        },
+        "name": "Sre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108,
+          11.5
+        ]
+      },
+      "id": "sre"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2177,
+          "ascii_name": "suena",
+          "genus_pk": 144,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Papunesia",
+          "iso_codes": "sue",
+          "jsondata": {},
+          "id": "sue",
+          "name": "Suena",
+          "description": null,
+          "markup_description": null,
+          "latitude": -7.75,
+          "longitude": 147.55
+        },
+        "name": "Suena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.55,
+          -7.75
+        ]
+      },
+      "id": "sue"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2209,
+          "ascii_name": "tamang eastern",
+          "genus_pk": 60,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "taj",
+          "jsondata": {},
+          "id": "tam",
+          "name": "Tamang (Eastern)",
+          "description": null,
+          "markup_description": null,
+          "latitude": 27.5,
+          "longitude": 85.666666666667
+        },
+        "name": "Tamang (Eastern)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.666666666667,
+          27.5
+        ]
+      },
+      "id": "tam"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2270,
+          "ascii_name": "tibetan standard spoken",
+          "genus_pk": 60,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "bod",
+          "jsondata": {},
+          "id": "tib",
+          "name": "Tibetan (Standard Spoken)",
+          "description": null,
+          "markup_description": null,
+          "latitude": 30,
+          "longitude": 91
+        },
+        "name": "Tibetan (Standard Spoken)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91,
+          30
+        ]
+      },
+      "id": "tib"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2288,
+          "ascii_name": "teke southern",
+          "genus_pk": 44,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "kkw",
+          "jsondata": {},
+          "id": "tks",
+          "name": "Teke (Southern)",
+          "description": null,
+          "markup_description": null,
+          "latitude": -2.33333333333,
+          "longitude": 14.5
+        },
+        "name": "Teke (Southern)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5,
+          -2.33333333333
+        ]
+      },
+      "id": "tks"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2293,
+          "ascii_name": "tlingit",
+          "genus_pk": 569,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "North America",
+          "iso_codes": "tli",
+          "jsondata": {},
+          "id": "tli",
+          "name": "Tlingit",
+          "description": null,
+          "markup_description": null,
+          "latitude": 59,
+          "longitude": -135
+        },
+        "name": "Tlingit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          225,
+          59
+        ]
+      },
+      "id": "tli"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2305,
+          "ascii_name": "temein",
+          "genus_pk": 574,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "teq",
+          "jsondata": {},
+          "id": "tmn",
+          "name": "Temein",
+          "description": null,
+          "markup_description": null,
+          "latitude": 11.9166666667,
+          "longitude": 29.4166666667
+        },
+        "name": "Temein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.4166666667,
+          11.9166666667
+        ]
+      },
+      "id": "tmn"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2307,
+          "ascii_name": "tampulma",
+          "genus_pk": 361,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "tpm",
+          "jsondata": {},
+          "id": "tmp",
+          "name": "Tampulma",
+          "description": null,
+          "markup_description": null,
+          "latitude": 10.4166666667,
+          "longitude": -0.583333333333
+        },
+        "name": "Tampulma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.583333333333,
+          10.4166666667
+        ]
+      },
+      "id": "tmp"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2315,
+          "ascii_name": "temne",
+          "genus_pk": 140,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "tem",
+          "jsondata": {},
+          "id": "tne",
+          "name": "Temne",
+          "description": null,
+          "markup_description": null,
+          "latitude": 8.66666666667,
+          "longitude": -13.0833333333
+        },
+        "name": "Temne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.0833333333,
+          8.66666666667
+        ]
+      },
+      "id": "tne"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2404,
+          "ascii_name": "tiwa northern",
+          "genus_pk": 342,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "North America",
+          "iso_codes": "twf",
+          "jsondata": {},
+          "id": "twn",
+          "name": "Tiwa (Northern)",
+          "description": null,
+          "markup_description": null,
+          "latitude": 36.5,
+          "longitude": -105.5
+        },
+        "name": "Tiwa (Northern)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          254.5,
+          36.5
+        ]
+      },
+      "id": "twn"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2427,
+          "ascii_name": "umbundu",
+          "genus_pk": 44,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "umb",
+          "jsondata": {},
+          "id": "umb",
+          "name": "UMbundu",
+          "description": null,
+          "markup_description": null,
+          "latitude": -12.5,
+          "longitude": 15
+        },
+        "name": "UMbundu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15,
+          -12.5
+        ]
+      },
+      "id": "umb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2430,
+          "ascii_name": "una",
+          "genus_pk": 265,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Papunesia",
+          "iso_codes": "mtg",
+          "jsondata": {},
+          "id": "una",
+          "name": "Una",
+          "description": null,
+          "markup_description": null,
+          "latitude": -4.66666666667,
+          "longitude": 140
+        },
+        "name": "Una"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140,
+          -4.66666666667
+        ]
+      },
+      "id": "una"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2465,
+          "ascii_name": "wahgi",
+          "genus_pk": 236,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "wgi, whg",
+          "jsondata": {},
+          "id": "wah",
+          "name": "Wahgi",
+          "description": null,
+          "markup_description": null,
+          "latitude": -5.83333333333,
+          "longitude": 144.716666667
+        },
+        "name": "Wahgi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.716666667,
+          -5.83333333333
+        ]
+      },
+      "id": "wah"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2552,
+          "ascii_name": "yagua",
+          "genus_pk": 609,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "South America",
+          "iso_codes": "yad",
+          "jsondata": {},
+          "id": "yag",
+          "name": "Yagua",
+          "description": null,
+          "markup_description": null,
+          "latitude": -3.5,
+          "longitude": -72
+        },
+        "name": "Yagua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          288,
+          -3.5
+        ]
+      },
+      "id": "yag"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2560,
+          "ascii_name": "yaqui",
+          "genus_pk": 488,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "North America",
+          "iso_codes": "yaq",
+          "jsondata": {},
+          "id": "yaq",
+          "name": "Yaqui",
+          "description": null,
+          "markup_description": null,
+          "latitude": 27.5,
+          "longitude": -110.25
+        },
+        "name": "Yaqui"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          249.75,
+          27.5
+        ]
+      },
+      "id": "yaq"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2570,
+          "ascii_name": "yucatec",
+          "genus_pk": 17,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "North America",
+          "iso_codes": "yua",
+          "jsondata": {},
+          "id": "yct",
+          "name": "Yucatec",
+          "description": null,
+          "markup_description": null,
+          "latitude": 20,
+          "longitude": -89
+        },
+        "name": "Yucatec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          271,
+          20
+        ]
+      },
+      "id": "yct"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2578,
+          "ascii_name": "yeyi",
+          "genus_pk": 44,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "yey",
+          "jsondata": {},
+          "id": "yey",
+          "name": "Yeyi",
+          "description": null,
+          "markup_description": null,
+          "latitude": -20,
+          "longitude": 23.5
+        },
+        "name": "Yeyi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5,
+          -20
+        ]
+      },
+      "id": "yey"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2581,
+          "ascii_name": "yagaria",
+          "genus_pk": 130,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "ygr",
+          "jsondata": {},
+          "id": "ygr",
+          "name": "Yagaria",
+          "description": null,
+          "markup_description": null,
+          "latitude": -6.33333333333,
+          "longitude": 145.416666667
+        },
+        "name": "Yagaria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.416666667,
+          -6.33333333333
+        ]
+      },
+      "id": "ygr"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2638,
+          "ascii_name": "zande",
+          "genus_pk": 116,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "zne",
+          "jsondata": {},
+          "id": "zan",
+          "name": "Zande",
+          "description": null,
+          "markup_description": null,
+          "latitude": 4,
+          "longitude": 26
+        },
+        "name": "Zande"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26,
+          4
+        ]
+      },
+      "id": "zan"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Simple tone system",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGNjZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2659,
+          "ascii_name": "zulu",
+          "genus_pk": 44,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "Africa",
+          "iso_codes": "zul",
+          "jsondata": {},
+          "id": "zul",
+          "name": "Zulu",
+          "description": null,
+          "markup_description": null,
+          "latitude": -30,
+          "longitude": 30
+        },
+        "name": "Zulu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30,
+          -30
+        ]
+      },
+      "id": "zul"
+    }
+  ]
+}
