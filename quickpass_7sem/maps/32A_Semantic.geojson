@@ -1,0 +1,1775 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "layer": "32A-2",
+    "name": "Systems of Gender Assignment",
+    "domain": [
+      {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "id": "32A-1",
+        "name": "No gender"
+      },
+      {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "id": "32A-2",
+        "name": "Semantic"
+      },
+      {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBERDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "id": "32A-3",
+        "name": "Semantic and formal"
+      }
+    ]
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 9,
+          "ascii_name": "abkhaz",
+          "genus_pk": 7,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "Eurasia",
+          "iso_codes": "abk",
+          "jsondata": {},
+          "id": "abk",
+          "name": "Abkhaz",
+          "description": null,
+          "markup_description": null,
+          "latitude": 43.0833333333,
+          "longitude": 41
+        },
+        "name": "Abkhaz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41,
+          43.0833333333
+        ]
+      },
+      "id": "abk"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 71,
+          "ascii_name": "alamblak",
+          "genus_pk": 49,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "Papunesia",
+          "iso_codes": "amp",
+          "jsondata": {},
+          "id": "ala",
+          "name": "Alamblak",
+          "description": null,
+          "markup_description": null,
+          "latitude": -4.66666666667,
+          "longitude": 143.333333333
+        },
+        "name": "Alamblak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.333333333,
+          -4.66666666667
+        ]
+      },
+      "id": "ala"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 133,
+          "ascii_name": "archi",
+          "genus_pk": 32,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "aqc",
+          "jsondata": {},
+          "id": "arc",
+          "name": "Archi",
+          "description": null,
+          "markup_description": null,
+          "latitude": 42,
+          "longitude": 46.8333333333
+        },
+        "name": "Archi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.8333333333,
+          42
+        ]
+      },
+      "id": "arc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 221,
+          "ascii_name": "bininj gunwok",
+          "genus_pk": 123,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Australia",
+          "iso_codes": "gup",
+          "jsondata": {},
+          "id": "bbw",
+          "name": "Bininj Gun-Wok",
+          "description": null,
+          "markup_description": null,
+          "latitude": -12.5,
+          "longitude": 133.75
+        },
+        "name": "Bininj Gun-Wok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.75,
+          -12.5
+        ]
+      },
+      "id": "bbw"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 363,
+          "ascii_name": "barasano",
+          "genus_pk": 163,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "South America",
+          "iso_codes": "bsn",
+          "jsondata": {},
+          "id": "brs",
+          "name": "Barasano",
+          "description": null,
+          "markup_description": null,
+          "latitude": -0.166666666667,
+          "longitude": -70.6666666667
+        },
+        "name": "Barasano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          289.3333333333,
+          -0.166666666667
+        ]
+      },
+      "id": "brs"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 391,
+          "ascii_name": "burushaski",
+          "genus_pk": 186,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "Eurasia",
+          "iso_codes": "bsk",
+          "jsondata": {},
+          "id": "bur",
+          "name": "Burushaski",
+          "description": null,
+          "markup_description": null,
+          "latitude": 36.5,
+          "longitude": 74.5
+        },
+        "name": "Burushaski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5,
+          36.5
+        ]
+      },
+      "id": "bur"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 418,
+          "ascii_name": "campa axininca",
+          "genus_pk": 194,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "South America",
+          "iso_codes": "cni, cpc",
+          "jsondata": {},
+          "id": "cax",
+          "name": "Campa (Axininca)",
+          "description": null,
+          "markup_description": null,
+          "latitude": -12,
+          "longitude": -74
+        },
+        "name": "Campa (Axininca)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          286,
+          -12
+        ]
+      },
+      "id": "cax"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 468,
+          "ascii_name": "chinantec lealao",
+          "genus_pk": 197,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "North America",
+          "iso_codes": "cle",
+          "jsondata": {},
+          "id": "cle",
+          "name": "Chinantec (Lealao)",
+          "description": null,
+          "markup_description": null,
+          "latitude": 17.3333333333,
+          "longitude": -95.9166666667
+        },
+        "name": "Chinantec (Lealao)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          264.0833333333,
+          17.3333333333
+        ]
+      },
+      "id": "cle"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 502,
+          "ascii_name": "cree plains",
+          "genus_pk": 13,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "North America",
+          "iso_codes": "crk",
+          "jsondata": {},
+          "id": "cre",
+          "name": "Cree (Plains)",
+          "description": null,
+          "markup_description": null,
+          "latitude": 54,
+          "longitude": -110
+        },
+        "name": "Cree (Plains)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          250,
+          54
+        ]
+      },
+      "id": "cre"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 564,
+          "ascii_name": "defaka",
+          "genus_pk": 248,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "afn",
+          "jsondata": {},
+          "id": "def",
+          "name": "Defaka",
+          "description": null,
+          "markup_description": null,
+          "latitude": 4.58333333333,
+          "longitude": 7.5
+        },
+        "name": "Defaka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5,
+          4.58333333333
+        ]
+      },
+      "id": "def"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 592,
+          "ascii_name": "diyari",
+          "genus_pk": 9,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Australia",
+          "iso_codes": "dif",
+          "jsondata": {},
+          "id": "diy",
+          "name": "Diyari",
+          "description": null,
+          "markup_description": null,
+          "latitude": -28,
+          "longitude": 139
+        },
+        "name": "Diyari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139,
+          -28
+        ]
+      },
+      "id": "diy"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 593,
+          "ascii_name": "dizi",
+          "genus_pk": 251,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "mdx",
+          "jsondata": {},
+          "id": "diz",
+          "name": "Dizi",
+          "description": null,
+          "markup_description": null,
+          "latitude": 6.16666666667,
+          "longitude": 36.5
+        },
+        "name": "Dizi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5,
+          6.16666666667
+        ]
+      },
+      "id": "diz"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 630,
+          "ascii_name": "dyirbal",
+          "genus_pk": 35,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Australia",
+          "iso_codes": "dbl",
+          "jsondata": {},
+          "id": "dyi",
+          "name": "Dyirbal",
+          "description": null,
+          "markup_description": null,
+          "latitude": -17.8333333333,
+          "longitude": 145.583333333
+        },
+        "name": "Dyirbal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.583333333,
+          -17.8333333333
+        ]
+      },
+      "id": "dyi"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 650,
+          "ascii_name": "english",
+          "genus_pk": 27,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "Eurasia",
+          "iso_codes": "eng",
+          "jsondata": {},
+          "id": "eng",
+          "name": "English",
+          "description": null,
+          "markup_description": null,
+          "latitude": 52,
+          "longitude": 0
+        },
+        "name": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          52
+        ]
+      },
+      "id": "eng"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 767,
+          "ascii_name": "godoberi",
+          "genus_pk": 79,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "gdo",
+          "jsondata": {},
+          "id": "god",
+          "name": "Godoberi",
+          "description": null,
+          "markup_description": null,
+          "latitude": 42.6666666667,
+          "longitude": 46.0833333333
+        },
+        "name": "Godoberi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.0833333333,
+          42.6666666667
+        ]
+      },
+      "id": "god"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 778,
+          "ascii_name": "grebo",
+          "genus_pk": 41,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "Africa",
+          "iso_codes": "grj",
+          "jsondata": {},
+          "id": "grb",
+          "name": "Grebo",
+          "description": null,
+          "markup_description": null,
+          "latitude": 5,
+          "longitude": -8
+        },
+        "name": "Grebo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8,
+          5
+        ]
+      },
+      "id": "grb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 845,
+          "ascii_name": "hixkaryana",
+          "genus_pk": 48,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "South America",
+          "iso_codes": "hix",
+          "jsondata": {},
+          "id": "hix",
+          "name": "Hixkaryana",
+          "description": null,
+          "markup_description": null,
+          "latitude": -1,
+          "longitude": -59
+        },
+        "name": "Hixkaryana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          301,
+          -1
+        ]
+      },
+      "id": "hix"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 886,
+          "ascii_name": "hunzib",
+          "genus_pk": 79,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Eurasia",
+          "iso_codes": "huz",
+          "jsondata": {},
+          "id": "hzb",
+          "name": "Hunzib",
+          "description": null,
+          "markup_description": null,
+          "latitude": 42.1666666667,
+          "longitude": 46.25
+        },
+        "name": "Hunzib"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.25,
+          42.1666666667
+        ]
+      },
+      "id": "hzb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1041,
+          "ascii_name": "ket",
+          "genus_pk": 364,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Eurasia",
+          "iso_codes": "ket",
+          "jsondata": {},
+          "id": "ket",
+          "name": "Ket",
+          "description": null,
+          "markup_description": null,
+          "latitude": 64,
+          "longitude": 87
+        },
+        "name": "Ket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87,
+          64
+        ]
+      },
+      "id": "ket"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1045,
+          "ascii_name": "koromfe",
+          "genus_pk": 365,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Africa",
+          "iso_codes": "kfz",
+          "jsondata": {},
+          "id": "kfe",
+          "name": "Koromfe",
+          "description": null,
+          "markup_description": null,
+          "latitude": 14.25,
+          "longitude": -0.916666666667
+        },
+        "name": "Koromfe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.916666666667,
+          14.25
+        ]
+      },
+      "id": "kfe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1066,
+          "ascii_name": "khasi",
+          "genus_pk": 368,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Eurasia",
+          "iso_codes": "kha",
+          "jsondata": {},
+          "id": "khs",
+          "name": "Khasi",
+          "description": null,
+          "markup_description": null,
+          "latitude": 25.5,
+          "longitude": 92
+        },
+        "name": "Khasi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92,
+          25.5
+        ]
+      },
+      "id": "khs"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1132,
+          "ascii_name": "khmu",
+          "genus_pk": 384,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Eurasia",
+          "iso_codes": "kjg",
+          "jsondata": {},
+          "id": "kmu",
+          "name": "Khmu'",
+          "description": null,
+          "markup_description": null,
+          "latitude": 21,
+          "longitude": 102
+        },
+        "name": "Khmu'"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102,
+          21
+        ]
+      },
+      "id": "kmu"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1138,
+          "ascii_name": "kannada",
+          "genus_pk": 127,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "Eurasia",
+          "iso_codes": "kan",
+          "jsondata": {},
+          "id": "knd",
+          "name": "Kannada",
+          "description": null,
+          "markup_description": null,
+          "latitude": 14,
+          "longitude": 76
+        },
+        "name": "Kannada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76,
+          14
+        ]
+      },
+      "id": "knd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1158,
+          "ascii_name": "kolami",
+          "genus_pk": 127,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "kfb",
+          "jsondata": {},
+          "id": "kol",
+          "name": "Kolami",
+          "description": null,
+          "markup_description": null,
+          "latitude": 20,
+          "longitude": 78.5
+        },
+        "name": "Kolami"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5,
+          20
+        ]
+      },
+      "id": "kol"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1275,
+          "ascii_name": "lak",
+          "genus_pk": 420,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Eurasia",
+          "iso_codes": "lbe",
+          "jsondata": {},
+          "id": "lak",
+          "name": "Lak",
+          "description": null,
+          "markup_description": null,
+          "latitude": 42.1666666667,
+          "longitude": 47.1666666667
+        },
+        "name": "Lak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1666666667,
+          42.1666666667
+        ]
+      },
+      "id": "lak"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1371,
+          "ascii_name": "macushi",
+          "genus_pk": 48,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "South America",
+          "iso_codes": "mbc",
+          "jsondata": {},
+          "id": "mac",
+          "name": "Macushi",
+          "description": null,
+          "markup_description": null,
+          "latitude": 4,
+          "longitude": -60
+        },
+        "name": "Macushi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          300,
+          4
+        ]
+      },
+      "id": "mac"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1386,
+          "ascii_name": "maung",
+          "genus_pk": 336,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "Australia",
+          "iso_codes": "mph",
+          "jsondata": {},
+          "id": "mau",
+          "name": "Maung",
+          "description": null,
+          "markup_description": null,
+          "latitude": -11.9166666667,
+          "longitude": 133.5
+        },
+        "name": "Maung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.5,
+          -11.9166666667
+        ]
+      },
+      "id": "mau"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1390,
+          "ascii_name": "maybrat",
+          "genus_pk": 439,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "Papunesia",
+          "iso_codes": "ayz",
+          "jsondata": {},
+          "id": "may",
+          "name": "Maybrat",
+          "description": null,
+          "markup_description": null,
+          "latitude": -1.33333333333,
+          "longitude": 132.5
+        },
+        "name": "Maybrat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5,
+          -1.33333333333
+        ]
+      },
+      "id": "may"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1561,
+          "ascii_name": "marind",
+          "genus_pk": 476,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Papunesia",
+          "iso_codes": "mrz",
+          "jsondata": {},
+          "id": "mrd",
+          "name": "Marind",
+          "description": null,
+          "markup_description": null,
+          "latitude": -7.83333333333,
+          "longitude": 140.166666667
+        },
+        "name": "Marind"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.166666667,
+          -7.83333333333
+        ]
+      },
+      "id": "mrd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1606,
+          "ascii_name": "mundari",
+          "genus_pk": 141,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Eurasia",
+          "iso_codes": "unr",
+          "jsondata": {},
+          "id": "mun",
+          "name": "Mundari",
+          "description": null,
+          "markup_description": null,
+          "latitude": 23,
+          "longitude": 84.6666666667
+        },
+        "name": "Mundari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.6666666667,
+          23
+        ]
+      },
+      "id": "mun"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1623,
+          "ascii_name": "mixtec chalcatongo",
+          "genus_pk": 460,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "North America",
+          "iso_codes": "mig",
+          "jsondata": {},
+          "id": "mxc",
+          "name": "Mixtec (Chalcatongo)",
+          "description": null,
+          "markup_description": null,
+          "latitude": 17.05,
+          "longitude": -97.5833333333
+        },
+        "name": "Mixtec (Chalcatongo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          262.4166666667,
+          17.05
+        ]
+      },
+      "id": "mxc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1639,
+          "ascii_name": "mangarrayi",
+          "genus_pk": 487,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "Australia",
+          "iso_codes": "mpc",
+          "jsondata": {},
+          "id": "myi",
+          "name": "Mangarrayi",
+          "description": null,
+          "markup_description": null,
+          "latitude": -14.6666666667,
+          "longitude": 133.5
+        },
+        "name": "Mangarrayi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.5,
+          -14.6666666667
+        ]
+      },
+      "id": "myi"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1676,
+          "ascii_name": "nicobarese car",
+          "genus_pk": 494,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "caq",
+          "jsondata": {},
+          "id": "nca",
+          "name": "Nicobarese (Car)",
+          "description": null,
+          "markup_description": null,
+          "latitude": 9,
+          "longitude": 93
+        },
+        "name": "Nicobarese (Car)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93,
+          9
+        ]
+      },
+      "id": "nca"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1702,
+          "ascii_name": "ngangityemerri",
+          "genus_pk": 499,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Australia",
+          "iso_codes": "nam",
+          "jsondata": {},
+          "id": "ngg",
+          "name": "Ngan'gityemerri",
+          "description": null,
+          "markup_description": null,
+          "latitude": -14.25,
+          "longitude": 130.416666667
+        },
+        "name": "Ngan'gityemerri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.416666667,
+          -14.25
+        ]
+      },
+      "id": "ngg"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1823,
+          "ascii_name": "ojibwa eastern",
+          "genus_pk": 13,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "North America",
+          "iso_codes": "ojg, otw",
+          "jsondata": {},
+          "id": "oji",
+          "name": "Ojibwa (Eastern)",
+          "description": null,
+          "markup_description": null,
+          "latitude": 46,
+          "longitude": -80
+        },
+        "name": "Ojibwa (Eastern)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          280,
+          46
+        ]
+      },
+      "id": "oji"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1836,
+          "ascii_name": "oneida",
+          "genus_pk": 237,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "North America",
+          "iso_codes": "one",
+          "jsondata": {},
+          "id": "ond",
+          "name": "Oneida",
+          "description": null,
+          "markup_description": null,
+          "latitude": 43,
+          "longitude": -75.6666666667
+        },
+        "name": "Oneida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          284.3333333333,
+          43
+        ]
+      },
+      "id": "ond"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1878,
+          "ascii_name": "paumari",
+          "genus_pk": 158,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "South America",
+          "iso_codes": "pad",
+          "jsondata": {},
+          "id": "pau",
+          "name": "Paumarí",
+          "description": null,
+          "markup_description": null,
+          "latitude": -6,
+          "longitude": -64
+        },
+        "name": "Paumarí"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          296,
+          -6
+        ]
+      },
+      "id": "pau"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1930,
+          "ascii_name": "pitta pitta",
+          "genus_pk": 9,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Australia",
+          "iso_codes": "pit",
+          "jsondata": {},
+          "id": "ppi",
+          "name": "Pitta Pitta",
+          "description": null,
+          "markup_description": null,
+          "latitude": -22.8333333333,
+          "longitude": 140
+        },
+        "name": "Pitta Pitta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140,
+          -22.8333333333
+        ]
+      },
+      "id": "ppi"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1935,
+          "ascii_name": "piraha",
+          "genus_pk": 530,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "South America",
+          "iso_codes": "myp",
+          "jsondata": {},
+          "id": "prh",
+          "name": "Pirahã",
+          "description": null,
+          "markup_description": null,
+          "latitude": -7,
+          "longitude": -62
+        },
+        "name": "Pirahã"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          298,
+          -7
+        ]
+      },
+      "id": "prh"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1944,
+          "ascii_name": "passamaquoddymaliseet",
+          "genus_pk": 13,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "North America",
+          "iso_codes": "pqm",
+          "jsondata": {},
+          "id": "psm",
+          "name": "Passamaquoddy-Maliseet",
+          "description": null,
+          "markup_description": null,
+          "latitude": 45,
+          "longitude": -67
+        },
+        "name": "Passamaquoddy-Maliseet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          293,
+          45
+        ]
+      },
+      "id": "psm"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1995,
+          "ascii_name": "retuara",
+          "genus_pk": 163,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "South America",
+          "iso_codes": "tnc",
+          "jsondata": {},
+          "id": "ret",
+          "name": "Retuarã",
+          "description": null,
+          "markup_description": null,
+          "latitude": -0.5,
+          "longitude": -70.6666666667
+        },
+        "name": "Retuarã"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          289.3333333333,
+          -0.5
+        ]
+      },
+      "id": "ret"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2128,
+          "ascii_name": "seneca",
+          "genus_pk": 237,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "North America",
+          "iso_codes": "see",
+          "jsondata": {},
+          "id": "snc",
+          "name": "Seneca",
+          "description": null,
+          "markup_description": null,
+          "latitude": 42.5,
+          "longitude": -77.5
+        },
+        "name": "Seneca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          282.5,
+          42.5
+        ]
+      },
+      "id": "snc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2203,
+          "ascii_name": "tagalog",
+          "genus_pk": 30,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "Papunesia",
+          "iso_codes": "tgl",
+          "jsondata": {},
+          "id": "tag",
+          "name": "Tagalog",
+          "description": null,
+          "markup_description": null,
+          "latitude": 15,
+          "longitude": 121
+        },
+        "name": "Tagalog"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121,
+          15
+        ]
+      },
+      "id": "tag"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2212,
+          "ascii_name": "taiap",
+          "genus_pk": 559,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "gpn",
+          "jsondata": {},
+          "id": "tap",
+          "name": "Taiap",
+          "description": null,
+          "markup_description": null,
+          "latitude": -4.08333333333,
+          "longitude": 144.5
+        },
+        "name": "Taiap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.5,
+          -4.08333333333
+        ]
+      },
+      "id": "tap"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2272,
+          "ascii_name": "tidore",
+          "genus_pk": 299,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "tvo",
+          "jsondata": {},
+          "id": "tid",
+          "name": "Tidore",
+          "description": null,
+          "markup_description": null,
+          "latitude": 0.75,
+          "longitude": 127.5
+        },
+        "name": "Tidore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.5,
+          0.75
+        ]
+      },
+      "id": "tid"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2282,
+          "ascii_name": "tiwi",
+          "genus_pk": 567,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "Australia",
+          "iso_codes": "tiw",
+          "jsondata": {},
+          "id": "tiw",
+          "name": "Tiwi",
+          "description": null,
+          "markup_description": null,
+          "latitude": -11.5,
+          "longitude": 131
+        },
+        "name": "Tiwi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131,
+          -11.5
+        ]
+      },
+      "id": "tiw"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2303,
+          "ascii_name": "tamil",
+          "genus_pk": 127,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "tam",
+          "jsondata": {},
+          "id": "tml",
+          "name": "Tamil",
+          "description": null,
+          "markup_description": null,
+          "latitude": 11,
+          "longitude": 78.5
+        },
+        "name": "Tamil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5,
+          11
+        ]
+      },
+      "id": "tml"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2392,
+          "ascii_name": "tunica",
+          "genus_pk": 586,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "North America",
+          "iso_codes": "tun",
+          "jsondata": {},
+          "id": "tun",
+          "name": "Tunica",
+          "description": null,
+          "markup_description": null,
+          "latitude": 32.6666666667,
+          "longitude": -91
+        },
+        "name": "Tunica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          269,
+          32.6666666667
+        ]
+      },
+      "id": "tun"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2469,
+          "ascii_name": "wambaya",
+          "genus_pk": 593,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Australia",
+          "iso_codes": "wmb",
+          "jsondata": {},
+          "id": "wam",
+          "name": "Wambaya",
+          "description": null,
+          "markup_description": null,
+          "latitude": -18.6666666667,
+          "longitude": 135.75
+        },
+        "name": "Wambaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75,
+          -18.6666666667
+        ]
+      },
+      "id": "wam"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2473,
+          "ascii_name": "wari",
+          "genus_pk": 596,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "South America",
+          "iso_codes": "pav",
+          "jsondata": {},
+          "id": "war",
+          "name": "Wari'",
+          "description": null,
+          "markup_description": null,
+          "latitude": -11.3333333333,
+          "longitude": -65
+        },
+        "name": "Wari'"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          295,
+          -11.3333333333
+        ]
+      },
+      "id": "war"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2520,
+          "ascii_name": "wardaman",
+          "genus_pk": 604,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Australia",
+          "iso_codes": "wrr",
+          "jsondata": {},
+          "id": "wrd",
+          "name": "Wardaman",
+          "description": null,
+          "markup_description": null,
+          "latitude": -15.5,
+          "longitude": 131
+        },
+        "name": "Wardaman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131,
+          -15.5
+        ]
+      },
+      "id": "wrd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2565,
+          "ascii_name": "yazgulyam",
+          "genus_pk": 150,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "yah",
+          "jsondata": {},
+          "id": "yaz",
+          "name": "Yazgulyam",
+          "description": null,
+          "markup_description": null,
+          "latitude": 38.5,
+          "longitude": 71.5
+        },
+        "name": "Yazgulyam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.5,
+          38.5
+        ]
+      },
+      "id": "yaz"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 2,
+        "value_name": "Semantic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2638,
+          "ascii_name": "zande",
+          "genus_pk": 116,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "zne",
+          "jsondata": {},
+          "id": "zan",
+          "name": "Zande",
+          "description": null,
+          "markup_description": null,
+          "latitude": 4,
+          "longitude": 26
+        },
+        "name": "Zande"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26,
+          4
+        ]
+      },
+      "id": "zan"
+    }
+  ]
+}
